@@ -1,0 +1,23 @@
+{
+  "name": "pruebafedesoft",
+  "version": "1.0.0",
+  "description": "Este es un ejercicio de clase sobre git\r este es un comentario en la rama 1\r comentario para el master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rogelio86/pruebafedesoft.git"
+  },
+  "author": "roger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rogelio86/pruebafedesoft/issues"
+  },
+  "homepage": "https://github.com/Rogelio86/pruebafedesoft#readme",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "inert": "^5.1.0"
+  }
+}
